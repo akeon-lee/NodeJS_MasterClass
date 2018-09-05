@@ -1,0 +1,14 @@
+{
+  "$1": {
+    "name": "Hawaiian Pizza",
+    "price": 7.99
+  },
+  "$2": {
+    "name": "BBQ Pizza",
+    "price": 8.99
+  },
+  "$3": {
+    "name": "House Special Pizza",
+    "price": 9.99
+  }
+}
